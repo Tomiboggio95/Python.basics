@@ -2,4 +2,4 @@
 Python's basic apps
 
 
-Basic python thing's while finishing some courses related to programming an data analysis.
+Basic python calculator usint tkinter
